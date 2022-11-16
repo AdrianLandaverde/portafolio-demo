@@ -8,19 +8,19 @@ section:
   showOnNavbar: true
  
 degrees:
-- name: Engineering in Data Science and Maths
+- name: LIT
   icon: fa-graduation-cap
-  timeframe: 2020-2024
+  timeframe: 2021-2025
   institution:
-    name: Tec de Monterrey Campus Estado de México
+    name: Tec de Monterrey
     url: "Link"
   grade:
     scale: Average Score
-    achieved: 97
+    achieved: 99
     outOf: 100
   extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
+  - "Extracurricular 1 UBYUJBUKB"
+  - "Extracurricular 2 BYUINIL"
   - "Extracurricular 3"
  
  
@@ -39,14 +39,11 @@ degrees:
     collapseAfter: 4
     courses:
     - name: Maths
-      achieved: 9
-      outOf: 10
+      achieved: 91
+      outOf: 100
     - name: Computer Science
-      achieved: 9
-      outOf: 10
-    - name: Biology Standard Level
-      achieved: 9
-      outOf: 10
+      achieved: 92
+      outOf: 100
   extracurricularActivities:
   - "Extracurricular 1"
   - "Extracurricular 2"
