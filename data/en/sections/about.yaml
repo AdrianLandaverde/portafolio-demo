@@ -8,7 +8,7 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Engineering in Data Science and Maths
+designation: LAD
  
 # Información de tu compañía / Escuela
 company:
@@ -23,9 +23,6 @@ summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripci�
  
 # Links a redes sociales
 socialLinks:
-- name: Github
-  icon: "fab fa-github"
-  url: "Link github personal"
  
 - name: Linkedin
   icon: "fab fa-linkedin"
@@ -40,9 +37,9 @@ badges:
  
 # Ejemplo soft skill
 - type: soft-skill-indicator
-  name: Leadership #Nombre de soft skill
+  name: Curious #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
-  color: blue #Color
+  color: green #Color
  
 # Ejemplo insignia (hard-skill)
 - type: certification
